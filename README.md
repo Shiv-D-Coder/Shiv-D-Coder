@@ -128,7 +128,7 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patel-shiv-b9583a224" target="_blank">
+  <a href="https://www.linkedin.com/in/shiv-patel-b9583a224" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &emsp;
