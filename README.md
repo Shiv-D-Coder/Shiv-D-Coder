@@ -125,6 +125,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv-D-Coder&layout=compact&theme=dark" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## 📬 Contact Me
 
 <p align="center">
@@ -140,6 +146,7 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
   </a>
 </p> 
+
 
 
 
