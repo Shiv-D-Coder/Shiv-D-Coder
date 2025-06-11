@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shiv Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI%20|%20ML%20Enthusiast;Full-Stack%20Developer;Flutter%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">🌟 I'm passionate AI & ML innovator, excelling in artificial intelligence and large language models (LLMs). With a knack for crafting intelligent solutions through machine learning, deep learning, and predictive analytics, I tackle complex challenges with ease. Fueled by curiosity and a drive for excellence, I'm always pushing the limits of AI innovation! 🚀</h4>
@@ -108,15 +108,6 @@
   </a>
 </p>
 
-### 👉 Soft Skills
-
-<p align="left">
-  &emsp; Leadership
-  &emsp; Communication
-  &emsp; Writing
-  &emsp; Crowd Management
-  &emsp; Time Management
-</p>
 
 ## 📈 My GitHub Stats
 
